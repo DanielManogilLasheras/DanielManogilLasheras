@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielManogilLasheras, I'm studying Web Application Development and I'm building this GIT to allow recruiters, friends and Work/Studies related people to see and review my projects and ideas made to train, show and develop my abilities and skills in different Front-End and Back-End languages and practices.
-- 👀 I’m interested in ...
+- 👀 I’m interested in getting my first job as a front-end, back-end or full-stack developer. I'm still learning a lot but I want to do it among the best professionals, and keep working on my craft to discover what are the fields and skills in which I want to specialize myself.
 - 🌱 I’m currently focusing my learning on front-end apps with React, Java and improving knowledge on Github
 - 💞️ I’m looking to collaborate on any projects and services I can participate in and learn from.
 - 📫 How to reach me: Just hit me up in LinkedIn: www.linkedin.com/in/daniel-m-1baa322a1 or send me an email: daniel9alc@gmail.com
